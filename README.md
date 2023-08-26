@@ -22,6 +22,6 @@ I'm currently working on some exciting projects. Stay tuned for updates!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tamiru-alemnew/)
+- LinkedIn: [Tamiru Alemnew](https://www.linkedin.com/in/tamiru-alemnew/)
 
 Feel free to explore my repositories and reach out. Let's connect and build amazing web projects together! ✨
