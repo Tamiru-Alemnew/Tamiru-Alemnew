@@ -1,4 +1,6 @@
 
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hello this is Tamiru &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 
 [![Linkedin: Tamiru ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/)](https://www.linkedin.com/in/tamiru-alemnew/)
 [![LeetCode Tamiru](https://img.shields.io/badge/-Leetcode-FFA500?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com//TamiruAlemnew/)
