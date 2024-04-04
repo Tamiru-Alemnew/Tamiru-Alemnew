@@ -1,9 +1,7 @@
 
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Linkedin: Tamiru ](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/)](https://www.linkedin.com/in/tamiru-alemnew/)
-[![LeetCode Tamiru](https://img.shields.io/badge/-Tamiru-FFA500?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com//TamiruAlemnew/)
+[![Linkedin: Tamiru ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/)](https://www.linkedin.com/in/tamiru-alemnew/)
+[![LeetCode Tamiru](https://img.shields.io/badge/-Leetcode-FFA500?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com//TamiruAlemnew/)
 [![GitHub Tamiru](https://img.shields.io/github/followers/Tamiru-Alemnew?label=follow&style=social)](https://github.com/Tamiru-Alemnew)
 
 
