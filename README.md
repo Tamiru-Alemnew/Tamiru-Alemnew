@@ -15,12 +15,19 @@ const Tamiru = {
   databases: [MongoDB, MySQL, Postgres, ],
   tools: [ Redux, Docker , git , github  ],
   education: {
-                        Addis Ababa University : "Software Engineering",
-                        African to silcon valley(A2SV):" competitive programming",
-                        CS50: ["Introduction to Computer Science", "Introduction to Artificial Intelligence"] , 
-                        FreeCodeCamp: ["Responsive Web Design", "JavaScript Algorithms and Data Structures", "Front End Libraries", " Back End Development and APIs"]
-
-                      },
+                Addis Ababa University : "Software Engineering",
+                African to silcon valley(A2SV):" competitive programming",
+                CS50: [
+                    "Introduction to Computer Science", 
+                    "Introduction to Artificial Intelligence"
+                    ] , 
+                FreeCodeCamp: [
+                    "Responsive Web Design", 
+                    "JavaScript Algorithms and Data Structures", 
+                    "Front End Libraries", 
+                    "Back End Development and APIs"
+                    ]
+             },
 }
 ```
 
