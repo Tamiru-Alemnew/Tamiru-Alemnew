@@ -22,6 +22,7 @@ const Tamiru = {
   backend: [Node, Express, Django, Nest js, Firebase,],
   databases: [MongoDB, MySQL, Postgres, ],
   tools: [ Redux, Docker , git , github  ],
+
   education: {
                 Addis Ababa University : "Software Engineering",
                 African to silcon valley(A2SV):" competitive programming",
@@ -37,6 +38,52 @@ const Tamiru = {
                       ]
              },
 }
+
+experience: [
+                {
+                  company: "Arez Armada",
+                  role: "Lead Software Engineer",
+                  duration: "September 2023 - March 2024",
+                  responsibilities: [
+                    "Led the development of core front-end and back-end infrastructure.",
+                    "Mentored interns and guided them through practical projects.",
+                    "Engaged in architectural discussions to drive system innovation."
+                  ]
+                },
+
+                {
+                  company: "4K LABS",
+                  role: "Back End Developer",
+                  responsibilities: [
+                    "Developing and maintaining scalable back-end systems.",
+                    "Collaborating with front-end developers to integrate user-facing elements.",
+                    "Optimizing application performance and ensuring security compliance."
+                  ]
+                },
+                
+                {
+                  company: "Ethioware Software Engineering Group",
+                  role: "Software Engineer",
+                  responsibilities: [
+                    "Developing software solutions for various projects.",
+                    "Participating in code reviews and contributing to team discussions.",
+                    "Enhancing existing systems to improve efficiency and performance."
+                  ]
+                },
+                
+                
+                {
+                  company: "Orange",
+                  role: "Student Trainer",
+                  duration: "September 2023",
+                  responsibilities: [
+                    "Mentored approximately 500 students in Python programming.",
+                    "Provided consistent support and guidance throughout the training.",
+                    "Fostered a strong learning community among participants."
+                  ]
+                }
+  ],
+
 ```
 <div align="center">
  <div align="center">
