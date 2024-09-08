@@ -17,72 +17,51 @@
 
 ```javascript
 const Tamiru = {
-  code: [Javascript, Typescript, HTML, CSS, Python, C++, Java , Dart],
-  frontend: [React, Redux,Flutter , Next.js , TailwindCSS, Material-UI, Bootstrap ,Bulma, ],
-  backend: [Node, Express, Django, Nest js, Firebase,],
-  databases: [MongoDB, MySQL, Postgres, ],
-  tools: [ Redux, Docker , git , github  ],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C++", "Java", "Dart", "SQL", "Bash"],
+  frontend: ["React", "Redux", "Flutter", "Next.js", "Tailwind CSS", "Material-UI", "Bootstrap", "Bulma", "SASS"],
+  backend: ["Node.js", "Express", "Django", "Nest.js", "Firebase", "GraphQL", "REST APIs"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase Realtime Database", "SQLite"],
+  tools: ["Docker", "Git", "GitHub", "JIRA", "VSCode", "Postman", "AWS", "Netlify", "Vercel", "Figma"],
 
   education: {
-                Addis Ababa University : "Software Engineering",
-                African to silcon valley(A2SV):" competitive programming",
-                CS50: [
-                        "Introduction to Computer Science", 
-                        "Introduction to Artificial Intelligence"
-                      ], 
-                FreeCodeCamp: [
-                        "Responsive Web Design", 
-                        "JavaScript Algorithms and Data Structures", 
-                        "Front End Libraries", 
-                        "Back End Development and APIs"
-                      ]
-             },
+    "Addis Ababa University": "BSc in Software Engineering",
+    "Africa to Silicon Valley (A2SV)": "Competitive Programming",
+    "CS50": [
+      "Introduction to Computer Science",
+      "Introduction to Artificial Intelligence"
+    ], 
+    "FreeCodeCamp": [
+      "Responsive Web Design",
+      "JavaScript Algorithms and Data Structures",
+      "Front End Libraries",
+      "Back End Development and APIs"
+    ]
+  },
+
+  experience: [
+    {
+      company: "Arez Armada",
+      role: "Lead Software Engineer",
+      duration: "September 2023 - March 2024"
+    },
+    {
+      company: "4K LABS",
+      role: "Back End Developer",
+      duration: "October 2023 - Present"
+    },
+    {
+      company: "Ethioware Software Engineering Group",
+      role: "Software Engineer",
+      duration: "May 2024 - Sept 2024"
+    },
+    {
+      company: "Orange",
+      role: "Student Trainer",
+      duration: "September 2023"
+    }
+  ],
 }
 
-experience: [
-                {
-                  company: "Arez Armada",
-                  role: "Lead Software Engineer",
-                  duration: "September 2023 - March 2024",
-                  responsibilities: [
-                    "Led the development of core front-end and back-end infrastructure.",
-                    "Mentored interns and guided them through practical projects.",
-                    "Engaged in architectural discussions to drive system innovation."
-                  ]
-                },
-
-                {
-                  company: "4K LABS",
-                  role: "Back End Developer",
-                  responsibilities: [
-                    "Developing and maintaining scalable back-end systems.",
-                    "Collaborating with front-end developers to integrate user-facing elements.",
-                    "Optimizing application performance and ensuring security compliance."
-                  ]
-                },
-                
-                {
-                  company: "Ethioware Software Engineering Group",
-                  role: "Software Engineer",
-                  responsibilities: [
-                    "Developing software solutions for various projects.",
-                    "Participating in code reviews and contributing to team discussions.",
-                    "Enhancing existing systems to improve efficiency and performance."
-                  ]
-                },
-                
-                
-                {
-                  company: "Orange",
-                  role: "Student Trainer",
-                  duration: "September 2023",
-                  responsibilities: [
-                    "Mentored approximately 500 students in Python programming.",
-                    "Provided consistent support and guidance throughout the training.",
-                    "Fostered a strong learning community among participants."
-                  ]
-                }
-  ],
 
 ```
 <div align="center">
