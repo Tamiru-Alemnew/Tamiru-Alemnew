@@ -16,7 +16,9 @@
 [![GitHub Tamiru](https://img.shields.io/github/followers/Tamiru-Alemnew?label=follow&style=social)](https://github.com/Tamiru-Alemnew)
 
 ```javascript
+
 const Tamiru = {
+
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C++", "Java", "Dart", "SQL", "Bash"],
   frontend: ["React", "Redux", "Flutter", "Next.js", "Tailwind CSS", "Material-UI", "Bootstrap", "Bulma", "SASS"],
   backend: ["Node.js", "Express", "Django", "Nest.js", "Firebase", "GraphQL", "REST APIs"],
@@ -24,44 +26,45 @@ const Tamiru = {
   tools: ["Docker", "Git", "GitHub", "JIRA", "VSCode", "Postman", "AWS", "Netlify", "Vercel", "Figma"],
 
   education: {
-    "Addis Ababa University": "BSc in Software Engineering",
-    "Africa to Silicon Valley (A2SV)": "Competitive Programming",
-    "CS50": [
-      "Introduction to Computer Science",
-      "Introduction to Artificial Intelligence"
-    ], 
-    "FreeCodeCamp": [
-      "Responsive Web Design",
-      "JavaScript Algorithms and Data Structures",
-      "Front End Libraries",
-      "Back End Development and APIs"
-    ]
+         "Addis Ababa University": "BSc in Software Engineering",
+         "Africa to Silicon Valley (A2SV)": "Data structures and Algorithm",
+
+         "CS50": [
+              "Introduction to Computer Science",
+              "Introduction to Artificial Intelligence"
+         ],
+
+         "FreeCodeCamp": [
+              "Responsive Web Design",
+              "JavaScript Algorithms and Data Structures",
+              "Front End Libraries",
+              "Back End Development and APIs"
+         ]
   },
 
   experience: [
-    {
-      company: "Arez Armada",
-      role: "Lead Software Engineer",
-      duration: "September 2023 - March 2024"
-    },
-    {
-      company: "4K LABS",
-      role: "Back End Developer",
-      duration: "October 2023 - Present"
-    },
-    {
-      company: "Ethioware Software Engineering Group",
-      role: "Software Engineer",
-      duration: "May 2024 - Sept 2024"
-    },
-    {
-      company: "Orange",
-      role: "Student Trainer",
-      duration: "September 2023"
-    }
-  ],
+          {
+            company: "Arez Armada",
+            role: "Lead Software Engineer",
+            duration: "August 2023 - March 2024"
+          },
+          {
+            company: "4K LABS",
+            role: "Back End Developer",
+            duration: "October 2023 - Present"
+          },
+          {
+            company: "Ethioware Software Engineering Group",
+            role: "Software Engineer",
+            duration: "May 2024 - Sept 2024"
+          },
+          {
+            company: "Orange",
+            role: "Student Trainer",
+            duration: "September 2023"
+          }
+        ],
 }
-
 
 ```
 <div align="center">
