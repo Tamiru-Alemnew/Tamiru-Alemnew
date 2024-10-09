@@ -44,24 +44,21 @@ const Tamiru = {
 
   experience: [
           {
+            company: "4K LABS",
+            role: "Back End Developer",
+            duration: "March 2024 - Present"
+          },
+
+          {
             company: "Arez Armada",
             role: "Lead Software Engineer",
             duration: "August 2023 - March 2024"
           },
+          
           {
-            company: "4K LABS",
-            role: "Back End Developer",
-            duration: "October 2023 - Present"
-          },
-          {
-            company: "Ethioware Software Engineering Group",
+            company: "Ethioware",
             role: "Software Engineer",
-            duration: "May 2024 - Sept 2024"
-          },
-          {
-            company: "Orange",
-            role: "Student Trainer",
-            duration: "September 2023"
+            duration: "March 2023 - Jul 2023"
           }
         ],
 }
