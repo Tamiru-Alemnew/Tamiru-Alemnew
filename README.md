@@ -41,26 +41,6 @@ const Tamiru = {
               "Back End Development and APIs"
          ]
   },
-
-  experience: [
-          {
-            company: "4K LABS",
-            role: "Back End Developer",
-            duration: "March 2024 - Present"
-          },
-
-          {
-            company: "Arez Armada",
-            role: "Lead Software Engineer",
-            duration: "August 2023 - March 2024"
-          },
-          
-          {
-            company: "Ethioware",
-            role: "Software Engineer",
-            duration: "March 2023 - Jul 2023"
-          }
-        ],
 }
 
 ```
